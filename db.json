@@ -11,30 +11,37 @@
     "lastName": "Blackwell",
     "stats": [
       {
+        "id": 1,
         "date": "01.04.2024",
         "value": true
       },
       {
+        "id": 1,
         "date": "10.04.2024",
         "value": true
       },
       {
+        "id": 2,
         "date": "21.04.2024",
         "value": false
       },
       {
+        "id": 3,
         "date": "22.04.2024",
         "value": true
       },
       {
+        "id": 4,
         "date": "29.04.2024",
         "value": false
       },
       {
+        "id": 5,
         "date": "01.05.2024",
         "value": false
       },
       {
+        "id": 6,
         "date": "02.05.2024",
         "value": true
       }
@@ -46,32 +53,39 @@
     "lastName": "Olson",
     "stats": [
       {
+        "id": 1,
         "date": "01.04.2024",
         "value": true
       },
       {
+        "id": 1,
         "date": "10.04.2024",
-        "value": false
+        "value": true
       },
       {
+        "id": 2,
         "date": "21.04.2024",
         "value": false
       },
       {
+        "id": 3,
         "date": "22.04.2024",
         "value": true
       },
       {
+        "id": 4,
         "date": "29.04.2024",
         "value": false
       },
       {
+        "id": 5,
         "date": "01.05.2024",
         "value": false
       },
       {
+        "id": 6,
         "date": "02.05.2024",
-        "value": false
+        "value": true
       }
     ]
   },
@@ -81,32 +95,39 @@
     "lastName": "Roberson",
     "stats": [
       {
+        "id": 1,
         "date": "01.04.2024",
         "value": true
       },
       {
+        "id": 1,
         "date": "10.04.2024",
         "value": true
       },
       {
+        "id": 2,
         "date": "21.04.2024",
         "value": false
       },
       {
+        "id": 3,
         "date": "22.04.2024",
-        "value": false
-      },
-      {
-        "date": "29.04.2024",
         "value": true
       },
       {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
         "date": "01.05.2024",
         "value": false
       },
       {
+        "id": 6,
         "date": "02.05.2024",
-        "value": false
+        "value": true
       }
     ]
   },
@@ -116,30 +137,37 @@
     "lastName": "Mays",
     "stats": [
       {
+        "id": 1,
         "date": "01.04.2024",
         "value": true
       },
       {
+        "id": 1,
         "date": "10.04.2024",
-        "value": false
+        "value": true
       },
       {
+        "id": 2,
         "date": "21.04.2024",
         "value": false
       },
       {
+        "id": 3,
         "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
         "value": false
       },
       {
-        "date": "29.04.2024",
-        "value": true
-      },
-      {
+        "id": 5,
         "date": "01.05.2024",
-        "value": true
+        "value": false
       },
       {
+        "id": 6,
         "date": "02.05.2024",
         "value": true
       }
@@ -151,30 +179,37 @@
     "lastName": "Park",
     "stats": [
       {
+        "id": 1,
         "date": "01.04.2024",
         "value": true
       },
       {
+        "id": 1,
         "date": "10.04.2024",
-        "value": false
-      },
-      {
-        "date": "21.04.2024",
         "value": true
       },
       {
-        "date": "22.04.2024",
+        "id": 2,
+        "date": "21.04.2024",
         "value": false
       },
       {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
         "date": "29.04.2024",
         "value": false
       },
       {
+        "id": 5,
         "date": "01.05.2024",
         "value": false
       },
       {
+        "id": 6,
         "date": "02.05.2024",
         "value": true
       }
@@ -186,32 +221,39 @@
     "lastName": "Hunter",
     "stats": [
       {
+        "id": 1,
         "date": "01.04.2024",
         "value": true
       },
       {
+        "id": 1,
         "date": "10.04.2024",
-        "value": false
+        "value": true
       },
       {
+        "id": 2,
         "date": "21.04.2024",
         "value": false
       },
       {
+        "id": 3,
         "date": "22.04.2024",
-        "value": false
+        "value": true
       },
       {
+        "id": 4,
         "date": "29.04.2024",
-        "value": true
-      },
-      {
-        "date": "01.05.2024",
-        "value": true
-      },
-      {
-        "date": "02.05.2024",
         "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
       }
     ]
   },
@@ -221,32 +263,39 @@
     "lastName": "Middleton",
     "stats": [
       {
+        "id": 1,
         "date": "01.04.2024",
-        "value": false
-      },
-      {
-        "date": "10.04.2024",
-        "value": false
-      },
-      {
-        "date": "21.04.2024",
         "value": true
       },
       {
-        "date": "22.04.2024",
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
         "value": false
       },
       {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
         "date": "29.04.2024",
         "value": false
       },
       {
+        "id": 5,
         "date": "01.05.2024",
         "value": false
       },
       {
+        "id": 6,
         "date": "02.05.2024",
-        "value": false
+        "value": true
       }
     ]
   },
@@ -256,32 +305,39 @@
     "lastName": "Crawford",
     "stats": [
       {
+        "id": 1,
         "date": "01.04.2024",
-        "value": false
+        "value": true
       },
       {
+        "id": 1,
         "date": "10.04.2024",
         "value": true
       },
       {
+        "id": 2,
         "date": "21.04.2024",
-        "value": true
+        "value": false
       },
       {
+        "id": 3,
         "date": "22.04.2024",
-        "value": false
+        "value": true
       },
       {
+        "id": 4,
         "date": "29.04.2024",
-        "value": true
-      },
-      {
-        "date": "01.05.2024",
-        "value": true
-      },
-      {
-        "date": "02.05.2024",
         "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
       }
     ]
   },
@@ -291,30 +347,37 @@
     "lastName": "Benjamin",
     "stats": [
       {
+        "id": 1,
         "date": "01.04.2024",
         "value": true
       },
       {
+        "id": 1,
         "date": "10.04.2024",
-        "value": false
+        "value": true
       },
       {
+        "id": 2,
         "date": "21.04.2024",
         "value": false
       },
       {
+        "id": 3,
         "date": "22.04.2024",
         "value": true
       },
       {
+        "id": 4,
         "date": "29.04.2024",
         "value": false
       },
       {
+        "id": 5,
         "date": "01.05.2024",
         "value": false
       },
       {
+        "id": 6,
         "date": "02.05.2024",
         "value": true
       }
@@ -326,30 +389,37 @@
     "lastName": "Mooney",
     "stats": [
       {
+        "id": 1,
         "date": "01.04.2024",
-        "value": false
+        "value": true
       },
       {
+        "id": 1,
         "date": "10.04.2024",
-        "value": false
+        "value": true
       },
       {
+        "id": 2,
         "date": "21.04.2024",
         "value": false
       },
       {
+        "id": 3,
         "date": "22.04.2024",
         "value": true
       },
       {
+        "id": 4,
         "date": "29.04.2024",
         "value": false
       },
       {
+        "id": 5,
         "date": "01.05.2024",
-        "value": true
+        "value": false
       },
       {
+        "id": 6,
         "date": "02.05.2024",
         "value": true
       }
@@ -360,12 +430,427 @@
     {
       "id": 2,
       "title": "Технологии программирования",
-      "group": "110-МКо"
-    },
-    {
-      "id": 3,
-      "title": "Проектирование и разработка веб-приложений",
-      "group": "1435-ИРО"
+      "group": "110-МКо",
+       "students": [
+  {
+    "id": "660d7fba64bdfe8726c29a14",
+    "firstName": "Callie",
+    "lastName": "Blackwell",
+    "stats": [
+      {
+        "id": 1,
+        "date": "01.04.2024",
+        "value": true
+      },
+      {
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
+        "value": false
+      },
+      {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
+      }
+    ]
+  },
+  {
+    "id": "660d7fbaed5fd6c47e15ba0c",
+    "firstName": "Wells",
+    "lastName": "Olson",
+    "stats": [
+      {
+        "id": 1,
+        "date": "01.04.2024",
+        "value": true
+      },
+      {
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
+        "value": false
+      },
+      {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
+      }
+    ]
+  },
+  {
+    "id": "660d7fba4edeb96676ca61b1",
+    "firstName": "Logan",
+    "lastName": "Roberson",
+    "stats": [
+      {
+        "id": 1,
+        "date": "01.04.2024",
+        "value": true
+      },
+      {
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
+        "value": false
+      },
+      {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
+      }
+    ]
+  },
+  {
+    "id": "660d7fba2efa7c0b0eaad6e1",
+    "firstName": "Dana",
+    "lastName": "Mays",
+    "stats": [
+      {
+        "id": 1,
+        "date": "01.04.2024",
+        "value": true
+      },
+      {
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
+        "value": false
+      },
+      {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
+      }
+    ]
+  },
+  {
+    "id": "660d7fba31b24828a71147a0",
+    "firstName": "Dominique",
+    "lastName": "Park",
+    "stats": [
+      {
+        "id": 1,
+        "date": "01.04.2024",
+        "value": true
+      },
+      {
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
+        "value": false
+      },
+      {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
+      }
+    ]
+  },
+  {
+    "id": "660d7fba856a5a3a458c99ee",
+    "firstName": "Brenda",
+    "lastName": "Hunter",
+    "stats": [
+      {
+        "id": 1,
+        "date": "01.04.2024",
+        "value": true
+      },
+      {
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
+        "value": false
+      },
+      {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
+      }
+    ]
+  },
+  {
+    "id": "660d7fbacb23d10c1ebe66a4",
+    "firstName": "Jerry",
+    "lastName": "Middleton",
+    "stats": [
+      {
+        "id": 1,
+        "date": "01.04.2024",
+        "value": true
+      },
+      {
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
+        "value": false
+      },
+      {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
+      }
+    ]
+  },
+  {
+    "id": "660d7fba7d8a3221deb934fe",
+    "firstName": "Erin",
+    "lastName": "Crawford",
+    "stats": [
+      {
+        "id": 1,
+        "date": "01.04.2024",
+        "value": true
+      },
+      {
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
+        "value": false
+      },
+      {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
+      }
+    ]
+  },
+  {
+    "id": "660d7fba8b2832f5aad82ad5",
+    "firstName": "Mallory",
+    "lastName": "Benjamin",
+    "stats": [
+      {
+        "id": 1,
+        "date": "01.04.2024",
+        "value": true
+      },
+      {
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
+        "value": false
+      },
+      {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
+      }
+    ]
+  },
+  {
+    "id": "660d7fba9e5218bf94a70f46",
+    "firstName": "Cecile",
+    "lastName": "Mooney",
+    "stats": [
+      {
+        "id": 1,
+        "date": "01.04.2024",
+        "value": true
+      },
+      {
+        "id": 1,
+        "date": "10.04.2024",
+        "value": true
+      },
+      {
+        "id": 2,
+        "date": "21.04.2024",
+        "value": false
+      },
+      {
+        "id": 3,
+        "date": "22.04.2024",
+        "value": true
+      },
+      {
+        "id": 4,
+        "date": "29.04.2024",
+        "value": false
+      },
+      {
+        "id": 5,
+        "date": "01.05.2024",
+        "value": false
+      },
+      {
+        "id": 6,
+        "date": "02.05.2024",
+        "value": true
+      }
+    ]
     }
   ]
 }
